@@ -1,2 +1,2 @@
 # MyReact
-My First Repository On Git
+Namestey React
