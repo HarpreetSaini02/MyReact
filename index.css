@@ -24,6 +24,7 @@
   width: 200px;
   padding: 10px;
   margin: 10px;
+  border-radius: 25px;
 }
 .card > img {
   width: 100%;
@@ -31,4 +32,12 @@
 .restaraunt-list {
   display: flex;
   flex-wrap: wrap;
+}
+
+.shimmer-card{
+  width: 200px;
+  height: 200px;
+  background: darkgray;
+  margin: 20px;
+  display: inline-block;
 }
